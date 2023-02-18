@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>TES Eras</name>
+  <author>Suraru</author>
+<packageId>sura.tes.era</packageId>
+<supportedVersions>
+	<li>1.4</li>
+</supportedVersions>
+<description>Changes the localization for dates to match that of The Elder Scrolls lore
+For example;
+The years 1-2920 will be referred to as the First Era,
+2921-2816 Will be reffered to as the Second Era (With 2921 being shown as 2E 1, and 2916 being shown as 2E 896)
+2817-3249 Will be the Third Era, which ends on 433
+The following dates are not canon, so I made them up.
+3250-3019 is the 4th era, ending with landfall on 231
+3020-3991 Is the 5th era, ending 911, as referenced by MK's Loveletter to the Fans (which is a reference to Kurt Khulman's birthday)
+3992-3961 The 6th era only lasted 29 years, referencing the current age of The Elder Scrolls when this mod was made
+3961-4957 Is the 7th era, lasting 994 years referencing the date TES1 Arena was released
+4958-5500 Is the 8th era, lasting 543 years to bring the date to the vanilla start date
+5501-6055+ Is the 9th era, leaving the current date as 9E 555 as referenced by KIMMUNE
+ </description>
+</ModMetaData>
